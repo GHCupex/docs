@@ -29,6 +29,13 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Minecraft",
+        "pages": [
+          "minecraft/minecraft-regelwerk",
+          "minecraft/discord-regelwerk"
+        ]
       }
     ]
   },
