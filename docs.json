@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "aspen",
+  "theme": "mint",
   "name": "FlowMC Wiki",
   "colors": {
     "primary": "#a34e15",
@@ -29,12 +29,12 @@
       }
     ]
   },
-  "logo": "/logo/light.svg",
+  "logo": "/images/FlowMC-Logo(Transparent).png",
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Discord",
+        "href": "https://discord.gg/aEBsTZWZZr"
       }
     ],
     "primary": {
@@ -58,11 +58,11 @@
   "footer": {
     "links": [
       {
-        "header": "Irgendein Text",
+        "header": "test",
         "items": [
           {
-            "label": "Test",
-            "href": "/youtube.com"
+            "label": "tes",
+            "href": "/test"
           }
         ]
       }
@@ -72,5 +72,5 @@
     "default": "dark",
     "strict": true
   },
-  "favicon": "/images/GEMICON.png"
+  "favicon": "/images/FlowMC-Logo(Transparent).png"
 }
