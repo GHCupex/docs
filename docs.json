@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "palm",
   "name": "FlowMC Wiki",
   "colors": {
     "primary": "#a34e15",
@@ -71,5 +71,6 @@
   "appearance": {
     "default": "dark",
     "strict": true
-  }
+  },
+  "favicon": "/images/GEMICON.png"
 }
