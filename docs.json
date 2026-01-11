@@ -11,6 +11,13 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Minecraft",
+        "pages": [
+          "minecraft/minecraft-regelwerk",
+          "minecraft/discord-regelwerk"
+        ]
+      },
+      {
         "tab": "Bewerbungen",
         "groups": [
           {
@@ -28,13 +35,6 @@
               "api-reference/endpoint/webhook"
             ]
           }
-        ]
-      },
-      {
-        "tab": "Minecraft",
-        "pages": [
-          "minecraft/minecraft-regelwerk",
-          "minecraft/discord-regelwerk"
         ]
       }
     ]
