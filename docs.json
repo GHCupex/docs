@@ -29,7 +29,7 @@
       }
     ]
   },
-  "logo": "/images/FlowMC-Logo(Transparent).png",
+  "logo": "/logo/FlowMC-Logo(Transparent).png",
   "navbar": {
     "links": [
       {
@@ -72,5 +72,5 @@
     "default": "dark",
     "strict": true
   },
-  "favicon": "/images/FlowMC-Logo(Transparent).png"
+  "favicon": "/logo/FlowMC-Logo(Transparent).png"
 }
