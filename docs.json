@@ -12,8 +12,15 @@
       {
         "tab": "Minecraft",
         "pages": [
+          "minecraft/startseite",
           "minecraft/minecraft-regelwerk",
-          "minecraft/discord-regelwerk"
+          "minecraft/discord-regelwerk",
+          {
+            "group": "Citybuild",
+            "pages": [
+              "minecraft/grundstuecke-and-bauen/untitled-page"
+            ]
+          }
         ]
       },
       {
