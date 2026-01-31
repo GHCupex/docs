@@ -18,11 +18,17 @@
       },
       {
         "tab": "Bewerbungen",
-        "groups": [
+        "pages": [
+          "bewerbungen/allgemeine-info/untitled-page",
+          "bewerbungen/bewerbungs-vorlgae",
           {
-            "group": "Allgemeine Info",
+            "group": "Anforderungen",
             "pages": [
-              "api-reference/introduction"
+              "bewerbungen/anforderungen/supporter",
+              "bewerbungen/anforderungen/supporter-copied-1",
+              "bewerbungen/anforderungen/supporter-copied-2",
+              "bewerbungen/anforderungen/supporter-copied-3",
+              "bewerbungen/anforderungen/supporter-copied-4"
             ]
           }
         ]
