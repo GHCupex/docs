@@ -18,7 +18,7 @@
           {
             "group": "Citybuild",
             "pages": [
-              "minecraft/grundstuecke-and-bauen/untitled-page"
+              "minecraft/grundstuecke-bauen"
             ]
           }
         ]
@@ -26,16 +26,16 @@
       {
         "tab": "Bewerbungen",
         "pages": [
-          "bewerbungen/allgemeine-info/untitled-page",
+          "bewerbungen/allgemeine-info",
           "bewerbungen/bewerbungs-vorlgae",
           {
             "group": "Anforderungen",
             "pages": [
               "bewerbungen/anforderungen/supporter",
-              "bewerbungen/anforderungen/supporter-copied-1",
-              "bewerbungen/anforderungen/supporter-copied-2",
-              "bewerbungen/anforderungen/supporter-copied-3",
-              "bewerbungen/anforderungen/supporter-copied-4"
+              "bewerbungen/anforderungen/developer",
+              "bewerbungen/anforderungen/builder",
+              "bewerbungen/anforderungen/content",
+              "bewerbungen/anforderungen/content-creator"
             ]
           }
         ]
