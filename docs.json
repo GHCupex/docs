@@ -17,25 +17,24 @@
           "minecraft/discord-regelwerk",
           {
             "group": "Citybuild",
-            "pages": [
-              "minecraft/grundstuecke-and-bauen/untitled-page"
-            ]
+            "pages": []
           }
         ]
       },
       {
         "tab": "Bewerbungen",
         "pages": [
+          "bewerbungen/allgemein",
           "bewerbungen/bewerbungs-vorlgae",
-          "bewerbungen/allgemeine-info/untitled-page",
+          "bewerbungen/muster-bewerbung",
           {
             "group": "Anforderungen",
             "pages": [
               "bewerbungen/anforderungen/supporter",
-              "bewerbungen/anforderungen/supporter-copied-2",
-              "bewerbungen/anforderungen/supporter-copied-1",
-              "bewerbungen/anforderungen/supporter-copied-3",
-              "bewerbungen/anforderungen/supporter-copied-4"
+              "bewerbungen/anforderungen/builder",
+              "bewerbungen/anforderungen/developer",
+              "bewerbungen/anforderungen/content",
+              "bewerbungen/anforderungen/content-creator"
             ]
           }
         ]
